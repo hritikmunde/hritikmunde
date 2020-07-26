@@ -1,0 +1,115 @@
+.home {
+	display: block;
+	color: white;
+}
+.reg_form {
+	display: none;
+}
+
+.data {
+	display: none;
+	color: white;
+}
+table {
+	position: relative;
+	left: 100px;
+}
+th {
+	padding: 10px;
+}
+.btn {
+	display: inline-block;
+}
+.head {
+	background-color: black;
+	color: white;
+	padding: 20px 0 20px 0;
+}
+form, .content {
+	width: 30%;
+	margin: 0px auto;
+	padding: 20px;
+	border: 1px solid #B0C4DE;
+	background: white;
+	border-radius: 0px 0px 10px 10px;
+}
+.input {
+	margin: 10px 0px 10px 0px;
+}
+
+.input label {
+	/*display: block;
+	text-align: left;*/
+	margin: 3px;
+}
+.input input {
+	height: 15px;
+	width: 53%;
+	padding: 10px 10px;
+	font-size: 16px;
+	border-radius: 5px;
+	border: 1px solid gray;
+}
+.btn {
+	padding: 20px;
+	font-size: 15px;
+	color: white;
+	background: black;
+	border: none;
+	/*border-radius: 5px;*/
+}
+header {
+	width: 30%;
+	margin: 50px auto 0px;
+	color: white;
+	background: black;
+	text-align: center;
+	border: 1px solid #B0C4DE;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+	padding: 20px;
+	font-family: 'Ranchers', cursive;
+	letter-spacing: 2px;
+}
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+.bg-image {
+  /* The image used */
+  background-image: url("img.jpg");
+  
+  /* Add the blur effect */
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+  
+  /* Full height */
+  height: 100%; 
+  
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg-text {
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+  position: absolute;
+  top: 77%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+}
+p {
+	font-size: 20px;
+}
