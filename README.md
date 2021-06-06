@@ -38,8 +38,11 @@
 ---
 
 ![Hritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hritikmunde&show_icons=true&theme=synthwave&count_private=true)
+
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hritikmunde&layout=compact)](https://github.com/hritikmunde/github-readme-stats)
-</br>
+<!--![](https://komarev.com/ghpvc/?username=hritikmunde&color=dc143c&style=flat-square)-->
 
 
 <!---
