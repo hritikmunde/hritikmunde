@@ -27,10 +27,19 @@
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![Red Hat Linux](https://img.icons8.com/color/48/000000/red-hat.png)
 
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem-flame-eta.vercel.app/api/spotify)](https://open.spotify.com/user/2mwgbi22kmo927i3gqv0h05ot)
+
+---
+
 ![Hritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hritikmunde&show_icons=true&theme=synthwave&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hritikmunde&layout=compact)](https://github.com/hritikmunde/github-readme-stats)
 </br>
-[![Spotify](https://novatorem-flame-eta.vercel.app/api/spotify)](https://open.spotify.com/user/2mwgbi22kmo927i3gqv0h05ot)
 
 
 <!---
