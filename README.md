@@ -29,6 +29,8 @@
 
 ![Hritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hritikmunde&show_icons=true&theme=synthwave&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hritikmunde&layout=compact)](https://github.com/hritikmunde/github-readme-stats)
+[![Spotify](https://novatorem-flame-eta.vercel.app/api/spotify)](https://open.spotify.com/user/2mwgbi22kmo927i3gqv0h05ot)
+
 
 <!---
 hritikmunde/hritikmunde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
