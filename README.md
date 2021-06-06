@@ -41,7 +41,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hritikmunde&layout=compact)](https://github.com/hritikmunde/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hritikmunde&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/hritikmunde/github-readme-stats)
 <!--![](https://komarev.com/ghpvc/?username=hritikmunde&color=dc143c&style=flat-square)-->
 
 
