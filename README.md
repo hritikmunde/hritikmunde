@@ -28,6 +28,7 @@
 ![Red Hat Linux](https://img.icons8.com/color/48/000000/red-hat.png)
 
 ![Hritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hritikmunde&show_icons=true&theme=synthwave&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hritikmunde&layout=compact)
 
 <!---
 hritikmunde/hritikmunde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
