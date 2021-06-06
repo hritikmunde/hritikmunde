@@ -19,6 +19,16 @@
 - 💞️ I’m looking to collaborate on projects about Data Science
 - 📫 To reach me hritik16munde@gmail.com
 
+## 🛠 Tech Stack
+
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
+![CSS](https://img.icons8.com/color/48/000000/css3.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![Red Hat Linux](https://img.icons8.com/color/48/000000/red-hat.png)
+
+![Hritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hritikmunde&show_icons=true&theme=synthwave&count_private=true)
+
 <!---
 hritikmunde/hritikmunde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
