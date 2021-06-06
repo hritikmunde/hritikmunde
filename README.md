@@ -1,4 +1,19 @@
-- 👋 Hi, I’m @hritikmunde
+## 👋 Hello World, I’m [Hritik](https://github.com/hritikmunde)
+
+<a href="https://www.linkedin.com/in/hritik-munde-922b43183/">
+  <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />
+</a>
+
+<a href="https://twitter.com/hritik_munde">
+  <img align="left" alt="Aman Ansari | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" />
+</a>
+
+</br>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+
+## ✨ Quick Facts
+
 - 👀 I’m interested in Linux and Computer Networks
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on projects about Data Science
