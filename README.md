@@ -37,16 +37,20 @@
 
 ---
 
+<h3 align="center">Profile stats :musical_keyboard:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hritikmunde&show_icons=true&theme=synthwave&count_private=true" />
 </p>
 
 ---
 
+<h3 align="center">Top langs :tongue:</h3>
 <p align="center">
   <a href="https://github.com/hritikmunde/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritikmunde&layout=compact&text_color=daf7dc&bg_color=151515" /></a>
 </p>
 <!--![](https://komarev.com/ghpvc/?username=hritikmunde&color=dc143c&style=flat-square)-->
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 
 <!---
