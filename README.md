@@ -15,8 +15,9 @@
 ## ✨ Quick Facts
 
 - 👀 I’m interested in Linux and Computer Networks
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on projects about Data Science
+- I work as a DevOps and Software Developer at an Organization
+- 🌱 I’m currently learning Rust and Go lang
+- 💞️ I’m looking to collaborate on projects
 - 📫 To reach me hritik16munde@gmail.com
 
 ## 🛠 Tech Stack
