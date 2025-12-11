@@ -5,10 +5,11 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
 ### 🛠 Tech Stack
-**Languages:** Go, Rust, Java, Python, TypeScript, C
-**DevOps/Infrastructure:** Terraform, Docker, Kubernetes, CI/CD
+**Languages:** Go, C++, Java, Python, TypeScript, C
+**DevOps/Infrastructure:** Terraform, Docker, Kubernetes, CI/CD, Helm, Jenkins, Github Actions
+**Monitoring:** Grafana, Loki, Prometheus
 **Distributed Systems:** etcd, distributed logging, microservices
-**Cloud:** AWS (based on your HCL projects)
+**Cloud:** AWS, GCP, Azure, EKS, GKE, S3
 
 ### 🚀 Current Focus
 - Building distributed systems in Go and Rust
