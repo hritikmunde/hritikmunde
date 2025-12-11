@@ -72,18 +72,16 @@ Serverless image processing pipeline
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hritikmunde&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=hritikmunde&theme=tokyonight" alt="GitHub Streak Stats" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritikmunde&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hritikmunde&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hritikmunde&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritikmunde&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-## 🚀 Current Focus
+## 🎯 Current Focus
 
 - Building distributed systems in Go and Rust
 - Infrastructure as Code with Terraform
@@ -99,6 +97,8 @@ Serverless image processing pipeline
 
 <div align="center">
   
+![Profile Views](https://komarev.com/ghpvc/?username=hritikmunde&color=blueviolet&style=flat-square&label=Profile+Views)
+
 *Thanks for visiting! Feel free to reach out if you want to collaborate on any projects.* 💙
 
 </div>
